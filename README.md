@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @astrokachi
-- 👀 I’m interested in finding an internship in software engineering
+- Software Engineer
+- Fontend developer
 - 📫 astrokachi@gmail.com
 
 <!---
