@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrokachi
 - Software Engineer
-- Fontend developer
+- Almost full stack developer 😅
 - 📫 astrokachi@gmail.com
 
 <!---
