@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @astrokachi
 - Software Engineer
-- Almost full stack developer 😅
+- Frontend developer
+- Full stack developer in progress 😅
 - 📫 astrokachi@gmail.com
 
 <!---
