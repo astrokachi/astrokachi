@@ -1,5 +1,4 @@
 Frontend developer | Software Engineer 
-📫 astrokachi@gmail.com
 
 <!---
 astrokachi/astrokachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
